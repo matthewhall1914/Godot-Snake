@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Funky Energy Loop.wav-3c0cda14e4050c46d2a4323f2ae97ad3.sample"
+
+[deps]
+
+source_file="res://Funky Energy Loop.wav"
+dest_files=[ "res://.import/Funky Energy Loop.wav-3c0cda14e4050c46d2a4323f2ae97ad3.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
